@@ -17,7 +17,7 @@
      start Installer.bat
      ```
   
-  2. Run the script and enter the GitHub username or organization name when prompted:
+  2. Before running the script change your webhook on the line 8
      ```
      python backup.py
      ```
