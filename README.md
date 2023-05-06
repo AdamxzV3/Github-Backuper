@@ -14,7 +14,7 @@
      ```
      git clone https://github.com/AdamxzV3/github-backup-bot.git
      cd github-backup-bot
-     pip install -r requirements.txt
+     start Installer.bat
      ```
   
   2. Run the script and enter the GitHub username or organization name when prompted:
